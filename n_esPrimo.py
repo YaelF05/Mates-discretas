@@ -1,7 +1,5 @@
 """
-Spyder Editor
-
-This is a temporary script file.
+@author: yaelf
 """
 
 numero = int(input("Escribe un número: "))
