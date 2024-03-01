@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Feb 22 19:08:26 2024
 
-@author: yaelf
+@author: Yael Franco
 """
         
 numero  = int(input("Ingresa un número: "))
