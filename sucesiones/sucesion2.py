@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Feb 22 19:27:21 2024
 
-@author: yaelf
+@author: Yael Franco
 """
     
     
